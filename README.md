@@ -1,0 +1,1 @@
+# mac-terminal-file-renamer
